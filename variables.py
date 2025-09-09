@@ -1,0 +1,97 @@
+import time
+from time import sleep
+ques1 = ("Would you like to [1] Snoozeeeee or [2] Get you fat ahh out of bed: ")
+
+def start():
+     print("Good morning my fine sir, I am your butler Timmy, lets get you ready for school!")
+     sleep(1)
+     print("The day is April 1st 2020, it is 7:23 and you have school at 8")
+     sleep(1)
+
+def snooze():
+    print("Of course you choose to sleep in, you have 10 minutes")
+    time.sleep(1)
+    print("Zzzzzzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzz")
+    time.sleep(0.2)
+    print("Zzzzz")
+    time.sleep(0.2)
+    print("Zzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("Zzzzzzzzzzzzzzzz")
+    time.sleep(0.2)
+    print("You finally need to get out of bed and get your school day started")
+
+def brush_teeth():
+    print("Welp, you are still half asleep and drop your toothbrush in the toilet")
+    time.sleep(0.5)
+    print("Then you remember you still have gum laying on your desk! Problem solving")
+
+def take_shower():
+    print("This shower feels like heaven, you sink to Katy Perry and everything")
+    time.sleep(0.8)
+    print("Even your mom feels the mood and lets you skip school to go to the movies")
+
+def go_school():
+    sleep(1)
+    print("Going to school like a good boy")
+    sleep(0.8)
+    print("You find yourself in a firedrill, and the fireman run by you... It is not a drill")
+
+def run_home():
+     print("You leave the school grounds, crossing the road to get back to your house...")
+     sleep(0.8)
+     print("You get creamed by a car crossing at a cross walk on red hand")
+     sleep(0.8)
+     print("Congrats, you have lost the game of life")
+     sleep(0.8)
+     print("Oh wait... you were not paying attention to the date were you? APRIL FOOLS!")
+
+def fake_sick():
+    print("You find yourself safe from a dealy school fire... Congrats")
+    sleep(1)
+    print("Unfortunatly, your friend was in that fire and is on life support in the hospital")
+    sleep(1)
+    print("By the time you make it to the hopspital he is gone")
+    sleep(1)
+    print("April fools, your mom finds out you were faking sick and you get grounded for a day")
+
+def stay_school():
+    print("You all made it out fine...")
+    sleep(0.8)
+    print("This day could have ended a whole lot worse, instead it was just another boring day at the office")
