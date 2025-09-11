@@ -1,6 +1,15 @@
 import time
 from time import sleep
 ques1 = ("Would you like to [1] Snoozeeeee or [2] Get you fat ahh out of bed: ")
+ques2 = ("Would you like to [1] Brush your teeth or [2] Take a shower: ")
+ques3 = ("Would you like to [1] Go to school or [2] Fake sick and stay home: ")
+ques4 = ("Do you [1] Run home or [2] Stay in the field bored for an hour: ")
+ques5 = ("Would you like to get [1] Popcorn or [2] Nerds gummy clusters: ")
+ques6 = ("You are in your movie and you and your mother are the only people there... Do you [1] get in better seats [2] Keep the seats you payed for: ")
+ques7 = ("Congrats on actually waking up early, would you like to [1] Scroll ig reels for 10 minutes or [2] Get breakfast: ")
+ques8 = ("Do you [1] Tell the school that you are not putting your phone in pouch prison, or [2] Comply with the school and do it their way: ")
+ques9 = ("Your time to relax is over, you have 20 minutes till dinner... Do you [1] finish your homeword or [2] Procrastinate till you need to go to bed, and miss out on sleep to do your homework: ")
+ques10 = ("So you finish breakfast and go to school, do you [1] screw around in the middle of class with a substitue, or [2] Focus on your work so you have more freetime later: ")
 
 def start():
      print("Good morning my fine sir, I am your butler Timmy, lets get you ready for school!")
@@ -192,3 +201,8 @@ def candy_choice():
     sleep(0.8)
     print("Your day is pretty easy, enjoy your movie")
     sleep(0.8)
+
+def ending_message():
+    print("Thanks for playing the life simulation")
+    sleep(0.8)
+    print("I hope you made it far")
