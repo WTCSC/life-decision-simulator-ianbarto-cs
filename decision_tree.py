@@ -8,7 +8,7 @@ sleep(1)
 
 if decision1 == ("1"):
     snooze()
-    decision2 = (input(ques2))
+    decision2 = input(ques2)
     if decision2 == ("1"):
         brush_teeth()
         decision3 = input(ques3)
