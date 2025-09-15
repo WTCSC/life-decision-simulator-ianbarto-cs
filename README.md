@@ -1,5 +1,5 @@
 # Life Decision Simulator
-This simulator will take you through the most important of life decisions
+__This simulator will take you through the most important of life decisions__
 
 ## Requirements
 * Python 3.0 or better
