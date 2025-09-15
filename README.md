@@ -2,9 +2,9 @@
 This simulator will take you through the most important of life decisions
 
 ## Requirements
-* Python 3.8 or better
+* Python 3.0 or better
 * An environment to run in
-* A brain
+* Time Library
 
 ## Installation
 ``` git clone https://github.com/WTCSC/life-decision-simulator-ianbarto-cs ```  
