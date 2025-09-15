@@ -7,8 +7,8 @@ This simulator will take you through the most important of life decisions
 * A brain
 
 ## Installation
-`` git clone https://github.com/WTCSC/life-decision-simulator-ianbarto-cs ``  
-``python3 decision_tree.py``  
+``` git clone https://github.com/WTCSC/life-decision-simulator-ianbarto-cs ```  
+```python3 decision_tree.py```  
 
 ## Gameplay Examples  
 
@@ -24,5 +24,4 @@ Would you like to [1] Brush your teeth or [2] Take a shower: 2
 This shower feels like heaven, you sing to Katy Perry and everything  
 Even your mom feels the mood and lets you skip school to go to the movies 🎬  
 
-## License
-Open Source  
+  
