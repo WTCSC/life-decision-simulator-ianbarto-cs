@@ -25,5 +25,6 @@ This shower feels like heaven, you sing to Katy Perry and everything
 Even your mom feels the mood and lets you skip school to go to the movies 🎬  
 
 ## Gameplay Flow Chart
-![](Branch.png)
+
+![](Branch.png)  
   
