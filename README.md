@@ -24,4 +24,6 @@ Would you like to [1] Brush your teeth or [2] Take a shower: 2
 This shower feels like heaven, you sing to Katy Perry and everything  
 Even your mom feels the mood and lets you skip school to go to the movies 🎬  
 
+## Gameplay Flow Chart
+![](Branch.png)
   
